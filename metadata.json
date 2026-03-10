@@ -1,0 +1,5 @@
+{
+  "name": "ChemInsight Bot",
+  "description": "A chemical information assistant powered by PubChem and Gemini AI.",
+  "requestFramePermissions": []
+}
